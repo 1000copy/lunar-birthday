@@ -1,0 +1,38 @@
+{
+  "name": "lunar-birthday",
+  "description": "lunar birthday",
+  "homepage": "https://github.com/1000copy/lunar-birthday",
+  "keywords": [
+    "lunar",
+    "birthday"    
+  ],
+  "author": "1000copy<1000copy@gmail.com>",
+  "contributors": [
+    "1000copy<1000copy@gmail.com>"
+  ],
+  "dependencies": {
+    "lunar-calendar": "*"
+  },
+  "devDependencies": {
+    "chai": "1.9.0",
+    "mocha": "1.17.1"    
+  },
+  "scripts": {
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1000copy/lunar-birthday"
+  },
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "license": "MIT",
+  "spm": {
+    "main": "index.js",
+    "ignore": ["test"]
+  }
+}
